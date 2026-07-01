@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+draft/
+checkpoints/
+expruns/
+results/
+
+*.pth
+*.pt
+*.ckpt
