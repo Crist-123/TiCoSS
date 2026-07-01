@@ -2,7 +2,7 @@
 
 ---
 
-**[Paper](https://arxiv.org/abs/2407.18038)** | **[Weights](https://huggingface.co/)**
+**[Paper](https://arxiv.org/abs/2407.18038)** | **[Inference Checkpoint](https://drive.google.com/file/d/1mfnnrutFi-dT_18yXdW3rwJ9xelZgBgi/view?usp=drive_link)** | **[Training Initialization Checkpoint](https://drive.google.com/file/d/1mOeJKESBo7FRKZVNqrU6WXPiFrAANk_0/view?usp=drive_link)**
 
 This is the official implementation for **TiCoSS**:
 
@@ -99,7 +99,10 @@ The current training command expects the dataset root to be passed via `--data_r
 
 ## Checkpoints
 
-The official weights of our model **TiCoSS** can be downloaded from [Hugging Face](https://huggingface.co/) after release. Model weights should be hosted on Hugging Face rather than committed to GitHub.
+The official weights of our model **TiCoSS** can be downloaded from Google Drive:
+
+- [Inference/demo checkpoint](https://drive.google.com/file/d/1mfnnrutFi-dT_18yXdW3rwJ9xelZgBgi/view?usp=drive_link)
+- [Training initialization checkpoint](https://drive.google.com/file/d/1mOeJKESBo7FRKZVNqrU6WXPiFrAANk_0/view?usp=drive_link)
 
 Expected local paths:
 
